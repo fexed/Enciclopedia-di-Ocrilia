@@ -1,236 +1,236 @@
-\select@language {italian}
-\select@language {italian}
-\contentsline {chapter}{\numberline {}Premessa}{2}
-\contentsline {chapter}{\numberline {}Cronistoria}{4}
-\contentsline {chapter}{\numberline {}Ocrilia}{6}
-\contentsline {paragraph}{Ocrilia e Quria}{6}
-\contentsline {subparagraph}{Perch\IeC {\'e} Quria}{6}
-\contentsline {paragraph}{Cos'\IeC {\`e} Ocrilia}{6}
-\contentsline {section}{\numberline {}Il Tempo}{7}
-\contentsline {paragraph}{Come suddividono il tempo gli Ocriliani?}{7}
-\contentsline {paragraph}{Date storiche}{8}
-\contentsline {subparagraph}{Prima della Guerra di Sopravvivenza}{8}
-\contentsline {section}{\numberline {}Il Cielo}{9}
-\contentsline {paragraph}{Nessun satellite naturale}{9}
-\contentsline {paragraph}{Costellazioni}{9}
-\contentsline {paragraph}{Corpi celesti}{9}
-\contentsline {section}{\numberline {}L'Economia}{10}
-\contentsline {paragraph}{Rame, Argento, Oro e Platino}{10}
-\contentsline {paragraph}{Le Monete}{10}
-\contentsline {chapter}{\numberline {}Piano Materiale}{11}
-\contentsline {section}{\numberline {}Introduzione}{11}
-\contentsline {section}{\numberline {}Continenti principali}{12}
-\contentsline {subsection}{\numberline {}Aluxias}{12}
-\contentsline {subsubsection}{Citt\IeC {\`a}}{12}
-\contentsline {subsubsection}{Altri luoghi}{12}
-\contentsline {subsection}{\numberline {}Deidras}{12}
-\contentsline {subsubsection}{Citt\IeC {\`a}}{12}
-\contentsline {subsubsection}{Altri luoghi}{12}
-\contentsline {subsection}{\numberline {}Arcipelago dei Cinque Castelli}{13}
-\contentsline {subsubsection}{Citt\IeC {\`a}}{13}
-\contentsline {subsubsection}{Altri luoghi}{13}
-\contentsline {subsection}{\numberline {}Ulan}{13}
-\contentsline {subsubsection}{Citt\IeC {\`a}}{13}
-\contentsline {subsubsection}{Altri luoghi}{13}
-\contentsline {section}{\numberline {}Citt\IeC {\`a}, paesi e villaggi nel dettaglio}{14}
-\contentsline {subsection}{\numberline {}Amareos}{14}
-\contentsline {subsubsection}{Storia}{14}
-\contentsline {subsubsection}{Luoghi}{15}
-\contentsline {paragraph}{Magazzino}{15}
-\contentsline {paragraph}{Scudiero}{15}
-\contentsline {paragraph}{Locanda "La Visione Marina"}{15}
-\contentsline {paragraph}{Fabbro}{16}
-\contentsline {paragraph}{Molo}{16}
-\contentsline {paragraph}{Piazza Centrale}{16}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{16}
-\contentsline {paragraph}{Gareth e Teleri Faughn}{16}
-\contentsline {paragraph}{Durhag Piallalegna}{16}
-\contentsline {paragraph}{Solnascente}{16}
-\contentsline {subsection}{\numberline {}Borgo Legnodoro}{17}
-\contentsline {subsubsection}{Storia}{17}
-\contentsline {subsubsection}{Luoghi}{18}
-\contentsline {paragraph}{Fabbro}{18}
-\contentsline {paragraph}{Libreria}{18}
-\contentsline {paragraph}{Arena "Legnate e Mazzate"}{19}
-\contentsline {paragraph}{Locanda "La Vite"}{19}
-\contentsline {paragraph}{Paninaro "Panini dal vostro Corteccia"}{19}
-\contentsline {paragraph}{Mobilificio}{20}
-\contentsline {subsubsection}{Dintorni: I Boschi Lucenti}{20}
-\contentsline {paragraph}{Torre Goblin}{20}
-\contentsline {paragraph}{Boschi Lucenti}{20}
-\contentsline {paragraph}{Scultura Piramidale}{21}
-\contentsline {paragraph}{Altare a Aureon}{21}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{21}
-\contentsline {paragraph}{Gloriseth Ampiabotte}{21}
-\contentsline {paragraph}{Umlar Elafir}{21}
-\contentsline {subsubsection}{Arco di Umlar}{21}
-\contentsline {subsection}{\numberline {}Riposo del Viandante}{22}
-\contentsline {subsubsection}{Storia}{22}
-\contentsline {subsubsection}{Luoghi}{23}
-\contentsline {paragraph}{Locanda "Il Passante"}{23}
-\contentsline {paragraph}{Scudiero}{23}
-\contentsline {paragraph}{Fabbro}{23}
-\contentsline {paragraph}{Alchimista}{24}
-\contentsline {paragraph}{Bottega "Tutto per il Viandante"}{24}
-\contentsline {paragraph}{Fortezza}{24}
-\contentsline {subsubsection}{Spadone Beressen}{24}
-\contentsline {subsubsection}{L'Albero della Creazione}{25}
-\contentsline {paragraph}{Il Maginodo: La Scultura a Doppia Piramide}{25}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{25}
-\contentsline {paragraph}{Krusk}{25}
-\contentsline {subsection}{\numberline {}Canalipoli}{26}
-\contentsline {subsubsection}{Storia}{27}
-\contentsline {subsubsection}{Luoghi}{27}
-\contentsline {paragraph}{Biblioteca Prisma}{27}
-\contentsline {paragraph}{Locanda "La Stella Ululante"}{27}
-\contentsline {paragraph}{Bottega del Viandante}{27}
-\contentsline {paragraph}{Villa del Governatore}{28}
-\contentsline {subsubsection}{Sotterranei di Canalipoli}{28}
-\contentsline {subsubsection}{Dintorni}{28}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{28}
-\contentsline {subsection}{\numberline {}Hellisdalk}{29}
-\contentsline {subsubsection}{Storia}{30}
-\contentsline {subsubsection}{Luoghi}{30}
-\contentsline {paragraph}{Palazzo Imperiale}{30}
-\contentsline {paragraph}{Tempio a Quria e Ocrilia}{30}
-\contentsline {paragraph}{Scudiero}{30}
-\contentsline {paragraph}{Fortezza}{30}
-\contentsline {paragraph}{Scuola di Bardi e Poeti}{31}
-\contentsline {paragraph}{Fabbro}{31}
-\contentsline {paragraph}{Sartoria}{31}
-\contentsline {paragraph}{Locanda Ampiabotte}{32}
-\contentsline {paragraph}{Arena}{32}
-\contentsline {subsubsection}{Scuola di Magia di Wexria}{32}
-\contentsline {paragraph}{Storia}{32}
-\contentsline {paragraph}{L'Edificio}{33}
-\contentsline {paragraph}{I Tre di Wexria}{33}
-\contentsline {subparagraph}{Vetiti}{33}
-\contentsline {subparagraph}{Drakoni}{33}
-\contentsline {subparagraph}{Osseus}{33}
-\contentsline {subsubsection}{Dintorni}{33}
-\contentsline {paragraph}{Ville e propriet\IeC {\`a}}{33}
-\contentsline {paragraph}{La Zecca Imperiale}{33}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{33}
-\contentsline {paragraph}{Myrddin Faeren}{33}
-\contentsline {paragraph}{Ganduman}{34}
-\contentsline {subsection}{\numberline {}Pi\IeC {\`e}bianco}{35}
-\contentsline {subsubsection}{Storia}{35}
-\contentsline {subsubsection}{Luoghi}{36}
-\contentsline {paragraph}{Locanda "Il Bianco Forestiero"}{36}
-\contentsline {paragraph}{Fabbro}{36}
-\contentsline {paragraph}{Bottega}{36}
-\contentsline {paragraph}{Ostello}{36}
-\contentsline {paragraph}{Spaccapietre}{36}
-\contentsline {subsubsection}{Biancacima}{37}
-\contentsline {paragraph}{La Cima di Ocrilia}{37}
-\contentsline {subsubsection}{Dintorni}{37}
-\contentsline {paragraph}{Valli e montagne}{37}
-\contentsline {subparagraph}{Giacimenti e miniere}{37}
-\contentsline {subparagraph}{Tumuli e mausolei}{37}
-\contentsline {subparagraph}{Mantide Planare}{37}
-\contentsline {subsection}{\numberline {}Masegroth}{38}
-\contentsline {subsubsection}{Storia}{38}
-\contentsline {subsubsection}{Luoghi}{38}
-\contentsline {subsubsection}{Il Mercato di Masegroth}{38}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{38}
-\contentsline {subsection}{\numberline {}Tong'har}{39}
-\contentsline {subsubsection}{Storia}{39}
-\contentsline {subsubsection}{Luoghi}{39}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{39}
-\contentsline {subsection}{\numberline {}Acquincrocio}{40}
-\contentsline {subsubsection}{Storia}{40}
-\contentsline {subsubsection}{Luoghi}{40}
-\contentsline {subsubsection}{Dintorni}{40}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{40}
-\contentsline {subsection}{\numberline {}Stellamarina}{41}
-\contentsline {subsubsection}{Storia}{41}
-\contentsline {subsubsection}{Luoghi}{41}
-\contentsline {subsubsection}{Dintorni}{41}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{41}
-\contentsline {subsection}{\numberline {}Melar}{42}
-\contentsline {subsubsection}{Storia}{42}
-\contentsline {subsubsection}{Luoghi}{42}
-\contentsline {subsubsection}{Dintorni}{42}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{42}
-\contentsline {subsection}{\numberline {}Nassau}{43}
-\contentsline {subsubsection}{Storia}{43}
-\contentsline {subsubsection}{Luoghi}{43}
-\contentsline {subsubsection}{Dintorni}{43}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{43}
-\contentsline {subsection}{\numberline {}Villaggio di Ulan}{44}
-\contentsline {subsubsection}{Storia}{44}
-\contentsline {subsubsection}{Luoghi}{44}
-\contentsline {subsubsection}{Dintorni}{44}
-\contentsline {subsubsection}{Personalit\IeC {\`a}}{44}
-\contentsline {subsection}{\numberline {}Villaggi secondari}{45}
-\contentsline {subsubsection}{Varekas}{45}
-\contentsline {subsubsection}{Acqueombrose}{45}
-\contentsline {subsubsection}{Casa di Duan}{45}
-\contentsline {section}{\numberline {}Rovine e Luoghi di Interesse}{46}
-\contentsline {subsection}{\numberline {}Biancacima}{46}
-\contentsline {subsection}{\numberline {}Nevreat}{47}
-\contentsline {subsection}{\numberline {}Mezzisola}{48}
-\contentsline {subsection}{\numberline {}Borgo Fantasma}{49}
-\contentsline {subsection}{\numberline {}Torre Infinita}{50}
-\contentsline {subsection}{\numberline {}Castello di Strahd}{51}
-\contentsline {subsection}{\numberline {}Cancello per gli Inferi}{52}
-\contentsline {subsection}{\numberline {}Dimora di Kwalish}{53}
-\contentsline {subsection}{\numberline {}Silandell}{54}
-\contentsline {subsection}{\numberline {}Cripta del Desiderio}{55}
-\contentsline {subsection}{\numberline {}Ancora di Njord}{56}
-\contentsline {subsection}{\numberline {}Rovine secondarie}{57}
-\contentsline {subsubsection}{Piccosabbioso}{57}
-\contentsline {chapter}{\numberline {}Piano Oscuro}{58}
-\contentsline {section}{\numberline {}Introduzione}{58}
-\contentsline {section}{\numberline {}Punti di interesse}{59}
-\contentsline {subsection}{\numberline {}Base dello Spirito}{59}
-\contentsline {subsection}{\numberline {}Scheletro di Mogrth}{60}
-\contentsline {subsection}{\numberline {}Il Forte}{61}
-\contentsline {subsection}{\numberline {}Lago Sottosopra}{62}
-\contentsline {subsection}{\numberline {}La Stamberga}{63}
-\contentsline {subsection}{\numberline {}Spada di Reus}{64}
-\contentsline {subsection}{\numberline {}Cripta della Perdizione}{65}
-\contentsline {subsection}{\numberline {}Accampamento dei Colossi}{66}
-\contentsline {chapter}{\numberline {}Le Magistringhe}{67}
-\contentsline {paragraph}{Cosa sono le "Magistringhe"?}{67}
-\contentsline {paragraph}{Tutti gli effetti magici sono causati dalle Magistringhe}{67}
-\contentsline {paragraph}{Vedere le Magistringhe}{67}
-\contentsline {subparagraph}{Le Entit\IeC {\`a}}{67}
-\contentsline {subparagraph}{Le Semientit\IeC {\`a}}{67}
-\contentsline {chapter}{\numberline {}Le Sette Sculture}{68}
-\contentsline {paragraph}{Cosa sono Le Sette Sculture?}{68}
-\contentsline {chapter}{\numberline {}Manvius Dexidas \& gli Obscurant}{69}
-\contentsline {chapter}{\numberline {}Appendice A: Libri, Testi e Racconti}{70}
-\contentsline {paragraph}{Introduzione}{70}
-\contentsline {section}{\numberline {}Romanzi, Racconti e Leggende}{70}
-\contentsline {subsubsection}{La Storia dei Tre Maghi}{70}
-\contentsline {subsubsection}{Epopea di Ares}{71}
-\contentsline {subsubsection}{La Spada di Reus}{71}
-\contentsline {subsubsection}{Il Martello Sgretolacontinenti}{71}
-\contentsline {subsubsection}{Tong'har e il Flagello}{71}
-\contentsline {subsubsection}{Njord e la Conquista dei Mari}{71}
-\contentsline {subsubsection}{La Storia di Mezzisola}{71}
-\contentsline {subsubsection}{La Conquista della Luce}{71}
-\contentsline {subsubsection}{Il Flagello delle Entit\IeC {\`a}}{71}
-\contentsline {subsubsection}{Scontro all'Orlo del Mondo}{71}
-\contentsline {subsubsection}{Duriel, ovvero: Come un Mortale s'\IeC {\`e} fatto Entit\IeC {\`a}}{71}
-\contentsline {subsubsection}{La Piramide Sotterranea}{72}
-\contentsline {subsubsection}{Sulla Creazione del Mondo}{72}
-\contentsline {subsubsection}{La Stele di Deidras}{72}
-\contentsline {subsubsection}{Qurillion}{72}
-\contentsline {section}{\numberline {}Libri sulla Storia}{73}
-\contentsline {subsubsection}{La Guerra degli Eterni}{73}
-\contentsline {subsubsection}{La Guerra di Sopravvivenza}{74}
-\contentsline {subsubsection}{Gli Elite della Coalizione}{75}
-\contentsline {subsubsection}{Cacciadraghi degli Anni di Fuoco}{76}
-\contentsline {subsubsection}{L'Attacco di Alder}{77}
-\contentsline {subsubsection}{La Scuola di Magia di Wexria}{77}
-\contentsline {subsubsection}{La Scoperta della Magia}{77}
-\contentsline {subsubsection}{L'Aluxias Premagica}{77}
-\contentsline {section}{\numberline {}Libri sulla Magia}{77}
-\contentsline {subsubsection}{Sugli Elementi e le Entit\IeC {\`a}}{77}
-\contentsline {subsubsection}{L'Essenza Stessa della Natura}{77}
-\contentsline {subsubsection}{Le Essenze della Magia}{78}
-\contentsline {subsubsection}{La Magia della Sinfonia}{78}
-\contentsline {subsubsection}{Le Sette Fonti}{78}
-\contentsline {subsubsection}{Weapon, +1, +2, or +3}{79}
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{\numberline {}Premessa}{2}{}%
+\contentsline {chapter}{\numberline {}Cronistoria}{4}{}%
+\contentsline {chapter}{\numberline {}Ocrilia}{6}{}%
+\contentsline {paragraph}{Ocrilia e Quria}{6}{}%
+\contentsline {subparagraph}{Perché Quria}{6}{}%
+\contentsline {paragraph}{Cos'è Ocrilia}{6}{}%
+\contentsline {section}{\numberline {}Il Tempo}{7}{}%
+\contentsline {paragraph}{Come suddividono il tempo gli Ocriliani?}{7}{}%
+\contentsline {paragraph}{Date storiche}{8}{}%
+\contentsline {subparagraph}{Prima della Guerra di Sopravvivenza}{8}{}%
+\contentsline {section}{\numberline {}Il Cielo}{9}{}%
+\contentsline {paragraph}{Nessun satellite naturale}{9}{}%
+\contentsline {paragraph}{Costellazioni}{9}{}%
+\contentsline {paragraph}{Corpi celesti}{9}{}%
+\contentsline {section}{\numberline {}L'Economia}{10}{}%
+\contentsline {paragraph}{Rame, Argento, Oro e Platino}{10}{}%
+\contentsline {paragraph}{Le Monete}{10}{}%
+\contentsline {chapter}{\numberline {}Piano Materiale}{11}{}%
+\contentsline {section}{\numberline {}Introduzione}{11}{}%
+\contentsline {section}{\numberline {}Continenti principali}{12}{}%
+\contentsline {subsection}{\numberline {}Aluxias}{12}{}%
+\contentsline {subsubsection}{Città}{12}{}%
+\contentsline {subsubsection}{Altri luoghi}{12}{}%
+\contentsline {subsection}{\numberline {}Deidras}{12}{}%
+\contentsline {subsubsection}{Città}{12}{}%
+\contentsline {subsubsection}{Altri luoghi}{12}{}%
+\contentsline {subsection}{\numberline {}Arcipelago dei Cinque Castelli}{13}{}%
+\contentsline {subsubsection}{Città}{13}{}%
+\contentsline {subsubsection}{Altri luoghi}{13}{}%
+\contentsline {subsection}{\numberline {}Ulan}{13}{}%
+\contentsline {subsubsection}{Città}{13}{}%
+\contentsline {subsubsection}{Altri luoghi}{13}{}%
+\contentsline {section}{\numberline {}Città, paesi e villaggi nel dettaglio}{14}{}%
+\contentsline {subsection}{\numberline {}Amareos}{14}{}%
+\contentsline {subsubsection}{Storia}{14}{}%
+\contentsline {subsubsection}{Luoghi}{15}{}%
+\contentsline {paragraph}{Magazzino}{15}{}%
+\contentsline {paragraph}{Scudiero}{15}{}%
+\contentsline {paragraph}{Locanda "La Visione Marina"}{15}{}%
+\contentsline {paragraph}{Fabbro}{16}{}%
+\contentsline {paragraph}{Molo}{16}{}%
+\contentsline {paragraph}{Piazza Centrale}{16}{}%
+\contentsline {subsubsection}{Personalità}{16}{}%
+\contentsline {paragraph}{Gareth e Teleri Faughn}{16}{}%
+\contentsline {paragraph}{Durhag Piallalegna}{16}{}%
+\contentsline {paragraph}{Solnascente}{16}{}%
+\contentsline {subsection}{\numberline {}Borgo Legnodoro}{17}{}%
+\contentsline {subsubsection}{Storia}{17}{}%
+\contentsline {subsubsection}{Luoghi}{18}{}%
+\contentsline {paragraph}{Fabbro}{18}{}%
+\contentsline {paragraph}{Libreria}{18}{}%
+\contentsline {paragraph}{Arena "Legnate e Mazzate"}{19}{}%
+\contentsline {paragraph}{Locanda "La Vite"}{19}{}%
+\contentsline {paragraph}{Paninaro "Panini dal vostro Corteccia"}{19}{}%
+\contentsline {paragraph}{Mobilificio}{20}{}%
+\contentsline {subsubsection}{Dintorni: I Boschi Lucenti}{20}{}%
+\contentsline {paragraph}{Torre Goblin}{20}{}%
+\contentsline {paragraph}{Boschi Lucenti}{20}{}%
+\contentsline {paragraph}{Scultura Piramidale}{21}{}%
+\contentsline {paragraph}{Altare a Aureon}{21}{}%
+\contentsline {subsubsection}{Personalità}{21}{}%
+\contentsline {paragraph}{Gloriseth Ampiabotte}{21}{}%
+\contentsline {paragraph}{Umlar Elafir}{21}{}%
+\contentsline {subsubsection}{Arco di Umlar}{21}{}%
+\contentsline {subsection}{\numberline {}Riposo del Viandante}{22}{}%
+\contentsline {subsubsection}{Storia}{22}{}%
+\contentsline {subsubsection}{Luoghi}{23}{}%
+\contentsline {paragraph}{Locanda "Il Passante"}{23}{}%
+\contentsline {paragraph}{Scudiero}{23}{}%
+\contentsline {paragraph}{Fabbro}{23}{}%
+\contentsline {paragraph}{Alchimista}{24}{}%
+\contentsline {paragraph}{Bottega "Tutto per il Viandante"}{24}{}%
+\contentsline {paragraph}{Fortezza}{24}{}%
+\contentsline {subsubsection}{Spadone Beressen}{24}{}%
+\contentsline {subsubsection}{L'Albero della Creazione}{25}{}%
+\contentsline {paragraph}{Il Maginodo: La Scultura a Doppia Piramide}{25}{}%
+\contentsline {subsubsection}{Personalità}{25}{}%
+\contentsline {paragraph}{Krusk}{25}{}%
+\contentsline {subsection}{\numberline {}Canalipoli}{26}{}%
+\contentsline {subsubsection}{Storia}{27}{}%
+\contentsline {subsubsection}{Luoghi}{27}{}%
+\contentsline {paragraph}{Biblioteca Prisma}{27}{}%
+\contentsline {paragraph}{Locanda "La Stella Ululante"}{27}{}%
+\contentsline {paragraph}{Bottega del Viandante}{27}{}%
+\contentsline {paragraph}{Villa del Governatore}{28}{}%
+\contentsline {subsubsection}{Sotterranei di Canalipoli}{28}{}%
+\contentsline {subsubsection}{Dintorni}{28}{}%
+\contentsline {subsubsection}{Personalità}{28}{}%
+\contentsline {subsection}{\numberline {}Hellisdalk}{29}{}%
+\contentsline {subsubsection}{Storia}{30}{}%
+\contentsline {subsubsection}{Luoghi}{30}{}%
+\contentsline {paragraph}{Palazzo Imperiale}{30}{}%
+\contentsline {paragraph}{Tempio a Quria e Ocrilia}{30}{}%
+\contentsline {paragraph}{Scudiero}{30}{}%
+\contentsline {paragraph}{Fortezza}{30}{}%
+\contentsline {paragraph}{Scuola di Bardi e Poeti}{31}{}%
+\contentsline {paragraph}{Fabbro}{31}{}%
+\contentsline {paragraph}{Sartoria}{31}{}%
+\contentsline {paragraph}{Locanda Ampiabotte}{32}{}%
+\contentsline {paragraph}{Arena}{32}{}%
+\contentsline {subsubsection}{Scuola di Magia di Wexria}{32}{}%
+\contentsline {paragraph}{Storia}{32}{}%
+\contentsline {paragraph}{L'Edificio}{33}{}%
+\contentsline {paragraph}{I Tre di Wexria}{33}{}%
+\contentsline {subparagraph}{Vetiti}{33}{}%
+\contentsline {subparagraph}{Drakoni}{33}{}%
+\contentsline {subparagraph}{Osseus}{33}{}%
+\contentsline {subsubsection}{Dintorni}{33}{}%
+\contentsline {paragraph}{Ville e proprietà}{33}{}%
+\contentsline {paragraph}{La Zecca Imperiale}{33}{}%
+\contentsline {subsubsection}{Personalità}{33}{}%
+\contentsline {paragraph}{Myrddin Faeren}{33}{}%
+\contentsline {paragraph}{Ganduman}{34}{}%
+\contentsline {subsection}{\numberline {}Pièbianco}{35}{}%
+\contentsline {subsubsection}{Storia}{35}{}%
+\contentsline {subsubsection}{Luoghi}{36}{}%
+\contentsline {paragraph}{Locanda "Il Bianco Forestiero"}{36}{}%
+\contentsline {paragraph}{Fabbro}{36}{}%
+\contentsline {paragraph}{Bottega}{36}{}%
+\contentsline {paragraph}{Ostello}{36}{}%
+\contentsline {paragraph}{Spaccapietre}{36}{}%
+\contentsline {subsubsection}{Biancacima}{37}{}%
+\contentsline {paragraph}{La Cima di Ocrilia}{37}{}%
+\contentsline {subsubsection}{Dintorni}{37}{}%
+\contentsline {paragraph}{Valli e montagne}{37}{}%
+\contentsline {subparagraph}{Giacimenti e miniere}{37}{}%
+\contentsline {subparagraph}{Tumuli e mausolei}{37}{}%
+\contentsline {subparagraph}{Mantide Planare}{37}{}%
+\contentsline {subsection}{\numberline {}Masegroth}{38}{}%
+\contentsline {subsubsection}{Storia}{38}{}%
+\contentsline {subsubsection}{Luoghi}{38}{}%
+\contentsline {subsubsection}{Il Mercato di Masegroth}{38}{}%
+\contentsline {subsubsection}{Personalità}{38}{}%
+\contentsline {subsection}{\numberline {}Tong'har}{39}{}%
+\contentsline {subsubsection}{Storia}{39}{}%
+\contentsline {subsubsection}{Luoghi}{39}{}%
+\contentsline {subsubsection}{Personalità}{39}{}%
+\contentsline {subsection}{\numberline {}Acquincrocio}{40}{}%
+\contentsline {subsubsection}{Storia}{40}{}%
+\contentsline {subsubsection}{Luoghi}{40}{}%
+\contentsline {subsubsection}{Dintorni}{40}{}%
+\contentsline {subsubsection}{Personalità}{40}{}%
+\contentsline {subsection}{\numberline {}Stellamarina}{41}{}%
+\contentsline {subsubsection}{Storia}{41}{}%
+\contentsline {subsubsection}{Luoghi}{41}{}%
+\contentsline {subsubsection}{Dintorni}{41}{}%
+\contentsline {subsubsection}{Personalità}{41}{}%
+\contentsline {subsection}{\numberline {}Melar}{42}{}%
+\contentsline {subsubsection}{Storia}{42}{}%
+\contentsline {subsubsection}{Luoghi}{42}{}%
+\contentsline {subsubsection}{Dintorni}{42}{}%
+\contentsline {subsubsection}{Personalità}{42}{}%
+\contentsline {subsection}{\numberline {}Nassau}{43}{}%
+\contentsline {subsubsection}{Storia}{43}{}%
+\contentsline {subsubsection}{Luoghi}{43}{}%
+\contentsline {subsubsection}{Dintorni}{43}{}%
+\contentsline {subsubsection}{Personalità}{43}{}%
+\contentsline {subsection}{\numberline {}Villaggio di Ulan}{44}{}%
+\contentsline {subsubsection}{Storia}{44}{}%
+\contentsline {subsubsection}{Luoghi}{44}{}%
+\contentsline {subsubsection}{Dintorni}{44}{}%
+\contentsline {subsubsection}{Personalità}{44}{}%
+\contentsline {subsection}{\numberline {}Villaggi secondari}{45}{}%
+\contentsline {subsubsection}{Varekas}{45}{}%
+\contentsline {subsubsection}{Acqueombrose}{45}{}%
+\contentsline {subsubsection}{Casa di Duan}{45}{}%
+\contentsline {section}{\numberline {}Rovine e Luoghi di Interesse}{46}{}%
+\contentsline {subsection}{\numberline {}Biancacima}{46}{}%
+\contentsline {subsection}{\numberline {}Nevreat}{47}{}%
+\contentsline {subsection}{\numberline {}Mezzisola}{48}{}%
+\contentsline {subsection}{\numberline {}Borgo Fantasma}{49}{}%
+\contentsline {subsection}{\numberline {}Torre Infinita}{50}{}%
+\contentsline {subsection}{\numberline {}Castello di Strahd}{51}{}%
+\contentsline {subsection}{\numberline {}Cancello per gli Inferi}{52}{}%
+\contentsline {subsection}{\numberline {}Dimora di Kwalish}{53}{}%
+\contentsline {subsection}{\numberline {}Silandell}{54}{}%
+\contentsline {subsection}{\numberline {}Cripta del Desiderio}{55}{}%
+\contentsline {subsection}{\numberline {}Ancora di Njord}{56}{}%
+\contentsline {subsection}{\numberline {}Rovine secondarie}{57}{}%
+\contentsline {subsubsection}{Piccosabbioso}{57}{}%
+\contentsline {chapter}{\numberline {}Piano Oscuro}{58}{}%
+\contentsline {section}{\numberline {}Introduzione}{58}{}%
+\contentsline {section}{\numberline {}Punti di interesse}{59}{}%
+\contentsline {subsection}{\numberline {}Base dello Spirito}{59}{}%
+\contentsline {subsection}{\numberline {}Scheletro di Mogrth}{60}{}%
+\contentsline {subsection}{\numberline {}Il Forte}{61}{}%
+\contentsline {subsection}{\numberline {}Lago Sottosopra}{62}{}%
+\contentsline {subsection}{\numberline {}La Stamberga}{63}{}%
+\contentsline {subsection}{\numberline {}Spada di Reus}{64}{}%
+\contentsline {subsection}{\numberline {}Cripta della Perdizione}{65}{}%
+\contentsline {subsection}{\numberline {}Accampamento dei Colossi}{66}{}%
+\contentsline {chapter}{\numberline {}Le Magistringhe}{67}{}%
+\contentsline {paragraph}{Cosa sono le "Magistringhe"?}{67}{}%
+\contentsline {paragraph}{Tutti gli effetti magici sono causati dalle Magistringhe}{67}{}%
+\contentsline {paragraph}{Vedere le Magistringhe}{67}{}%
+\contentsline {subparagraph}{Le Entità}{67}{}%
+\contentsline {subparagraph}{Le Semientità}{67}{}%
+\contentsline {chapter}{\numberline {}Le Sette Sculture}{68}{}%
+\contentsline {paragraph}{Cosa sono Le Sette Sculture?}{68}{}%
+\contentsline {chapter}{\numberline {}Manvius Dexidas \& gli Obscurant}{69}{}%
+\contentsline {chapter}{\numberline {}Appendice A: Libri, Testi e Racconti}{70}{}%
+\contentsline {paragraph}{Introduzione}{70}{}%
+\contentsline {section}{\numberline {}Romanzi, Racconti e Leggende}{70}{}%
+\contentsline {subsubsection}{La Storia dei Tre Maghi}{70}{}%
+\contentsline {subsubsection}{Epopea di Ares}{71}{}%
+\contentsline {subsubsection}{La Spada di Reus}{71}{}%
+\contentsline {subsubsection}{Il Martello Sgretolacontinenti}{71}{}%
+\contentsline {subsubsection}{Tong'har e il Flagello}{71}{}%
+\contentsline {subsubsection}{Njord e la Conquista dei Mari}{71}{}%
+\contentsline {subsubsection}{La Storia di Mezzisola}{71}{}%
+\contentsline {subsubsection}{La Conquista della Luce}{71}{}%
+\contentsline {subsubsection}{Il Flagello delle Entità}{71}{}%
+\contentsline {subsubsection}{Scontro all'Orlo del Mondo}{71}{}%
+\contentsline {subsubsection}{Duriel, ovvero: Come un Mortale s'è fatto Entità}{71}{}%
+\contentsline {subsubsection}{La Piramide Sotterranea}{72}{}%
+\contentsline {subsubsection}{Sulla Creazione del Mondo}{72}{}%
+\contentsline {subsubsection}{La Stele di Deidras}{72}{}%
+\contentsline {subsubsection}{Qurillion}{72}{}%
+\contentsline {section}{\numberline {}Libri sulla Storia}{74}{}%
+\contentsline {subsubsection}{La Guerra degli Eterni}{74}{}%
+\contentsline {subsubsection}{La Guerra di Sopravvivenza}{75}{}%
+\contentsline {subsubsection}{Gli Elite della Coalizione}{76}{}%
+\contentsline {subsubsection}{Cacciadraghi degli Anni di Fuoco}{77}{}%
+\contentsline {subsubsection}{L'Attacco di Alder}{78}{}%
+\contentsline {subsubsection}{La Scuola di Magia di Wexria}{78}{}%
+\contentsline {subsubsection}{La Scoperta della Magia}{78}{}%
+\contentsline {subsubsection}{L'Aluxias Premagica}{78}{}%
+\contentsline {section}{\numberline {}Libri sulla Magia}{78}{}%
+\contentsline {subsubsection}{Sugli Elementi e le Entità}{78}{}%
+\contentsline {subsubsection}{L'Essenza Stessa della Natura}{78}{}%
+\contentsline {subsubsection}{Le Essenze della Magia}{79}{}%
+\contentsline {subsubsection}{La Magia della Sinfonia}{79}{}%
+\contentsline {subsubsection}{Le Sette Fonti}{79}{}%
+\contentsline {subsubsection}{Weapon, +1, +2, or +3}{80}{}%

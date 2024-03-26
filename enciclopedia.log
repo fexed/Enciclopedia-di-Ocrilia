@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.11)  26 MAR 2024 21:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.11)  26 MAR 2024 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -896,25 +896,30 @@ les/MiKTeX/fonts/enc/dvips/base/8r.enc} <./img/bg-letter-odd-print.jpg>]
 Capitolo .
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <24.88> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 22.
-<images/Ocriliasymbol.png, id=49, 602.25pt x 451.6875pt>
+<images/party.jpg, id=49, 472.01344pt x 472.01344pt>
+File: images/party.jpg Graphic file (type jpg)
+<use images/party.jpg>
+Package pdftex.def Info: images/party.jpg  used on input line 26.
+(pdftex.def)             Requested size: 155.76491pt x 155.76491pt.
+<images/Ocriliasymbol.png, id=50, 602.25pt x 451.6875pt>
 File: images/Ocriliasymbol.png Graphic file (type png)
 <use images/Ocriliasymbol.png>
-Package pdftex.def Info: images/Ocriliasymbol.png  used on input line 46.
-(pdftex.def)             Requested size: 361.35278pt x 271.01459pt.
+Package pdftex.def Info: images/Ocriliasymbol.png  used on input line 47.
+(pdftex.def)             Requested size: 198.7431pt x 149.05733pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--51
+Underfull \hbox (badness 10000) in paragraph at lines 49--53
 
  []
 
-<img/bg-letter-even-print.jpg, id=51, 614.295pt x 794.97pt>
+<img/bg-letter-even-print.jpg, id=52, 614.295pt x 794.97pt>
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 51.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 53.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [2
 
- <./img/bg-letter-even-print.jpg> <./images/Ocriliasymbol.png>]
-(enciclopedia.toc)
+ <./img/bg-letter-even-print.jpg> <./images/party.jpg> <./images/Ocriliasymbol.
+png>] (enciclopedia.toc)
 \tf@toc=\write4
 \openout4 = `enciclopedia.toc'.
 
@@ -923,45 +928,35 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 56.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 58.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [3]
 Capitolo .
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 5
-8.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 6
+0.
 (C:\Program Files\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 58.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 60.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 58.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 60.
 
 Missing character: There is no ; in font nullfont!
 LaTeX Font Info:    Trying to load font information for TS1+pbk on input line 6
-3.
+5.
 (C:\Users\fedex\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1pbk.fd
 File: ts1pbk.fd 2001/06/04 font definitions for TS1/pbk.
 )
 LaTeX Font Info:    Font shape `TS1/pbk/m/n' in size <10> not available
-(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 63.
+(Font)              Font shape `TS1/pbk/l/n' tried instead on input line 65.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
@@ -986,17 +981,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
@@ -1036,17 +1031,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--83
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
 
  []
 
@@ -1065,13 +1060,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
-File: img/bg-letter-even-print.jpg Graphic file (type jpg)
-<use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 90.
-(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
-[4
 
-{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
@@ -1081,7 +1070,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
+File: img/bg-letter-even-print.jpg Graphic file (type jpg)
+<use img/bg-letter-even-print.jpg>
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 92.
+(pdftex.def)             Requested size: 614.295pt x 795.01657pt.
+[4
 
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
 Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
@@ -1097,17 +1092,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--95
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
 
  []
 
@@ -1131,276 +1126,286 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 105.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 107.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [5]
 Capitolo .
-<images/quriaocriliapianeti1.jpg, id=68, 562.2606pt x 495.7722pt>
+<images/quriaocriliapianeti1.jpg, id=69, 562.2606pt x 495.7722pt>
 File: images/quriaocriliapianeti1.jpg Graphic file (type jpg)
 <use images/quriaocriliapianeti1.jpg>
-Package pdftex.def Info: images/quriaocriliapianeti1.jpg  used on input line 10
-8.
+Package pdftex.def Info: images/quriaocriliapianeti1.jpg  used on input line 11
+0.
 (pdftex.def)             Requested size: 449.8091pt x 396.61829pt.
 LaTeX Font Info:    Font shape `T1/pbk/b/n' in size <10> not available
-(Font)              Font shape `T1/pbk/db/n' tried instead on input line 111.
+(Font)              Font shape `T1/pbk/db/n' tried instead on input line 113.
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 117.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 119.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [6
 
  <./images/quriaocriliapianeti1.jpg>]
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <17.28> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 118.
-<images/days.png, id=73, 703.12688pt x 25.59563pt>
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 120.
+<images/days.png, id=74, 703.12688pt x 25.59563pt>
 File: images/days.png Graphic file (type png)
 <use images/days.png>
-Package pdftex.def Info: images/days.png  used on input line 172.
+Package pdftex.def Info: images/days.png  used on input line 174.
 (pdftex.def)             Requested size: 516.79741pt x 18.81274pt.
 
-Overfull \hbox (2.86066pt too wide) in paragraph at lines 172--174
+Overfull \hbox (2.86066pt too wide) in paragraph at lines 174--176
 [][]
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 174.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 176.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [7 <./images/days.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 174--176
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 187.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 189.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [8]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 227.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 229.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [9]
 LaTeX Font Info:    Trying to load font information for T1+fosj on input line 2
-31.
-LaTeX Font Info:    No file T1fosj.fd. on input line 231.
+33.
+LaTeX Font Info:    No file T1fosj.fd. on input line 233.
 
 
 LaTeX Font Warning: Font shape `T1/fosj/m/n' undefined
-(Font)              using `T1/cmr/m/n' instead on input line 231.
+(Font)              using `T1/cmr/m/n' instead on input line 233.
 
 
 LaTeX Font Warning: Font shape `T1/fosj/m/sc' undefined
-(Font)              using `T1/fosj/m/n' instead on input line 231.
+(Font)              using `T1/fosj/m/n' instead on input line 233.
 
 
 LaTeX Font Warning: Font shape `T1/fosj/b/sc' undefined
-(Font)              using `T1/fosj/m/n' instead on input line 231.
+(Font)              using `T1/fosj/m/n' instead on input line 233.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 231--234
+Underfull \hbox (badness 10000) in paragraph at lines 233--236
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--234
+Underfull \hbox (badness 10000) in paragraph at lines 232--236
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 242.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 244.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [10]
 Capitolo .
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--248
+Underfull \hbox (badness 10000) in paragraph at lines 247--250
 
  []
 
-<images/AluxiasDeidrastagged.jpg, id=89, 727.9998pt x 544.6749pt>
+<images/AluxiasDeidrastagged.jpg, id=90, 727.9998pt x 544.6749pt>
 File: images/AluxiasDeidrastagged.jpg Graphic file (type jpg)
 <use images/AluxiasDeidrastagged.jpg>
-Package pdftex.def Info: images/AluxiasDeidrastagged.jpg  used on input line 24
-9.
+Package pdftex.def Info: images/AluxiasDeidrastagged.jpg  used on input line 25
+1.
 (pdftex.def)             Requested size: 545.99852pt x 408.50516pt.
 
-Overfull \hbox (17.06177pt too wide) in paragraph at lines 249--250
+Overfull \hbox (17.06177pt too wide) in paragraph at lines 251--252
  [] 
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 251.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 253.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [11
 
  <./images/AluxiasDeidrastagged.jpg>]
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 253.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 255.
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
-(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 258.
+(Font)              Font shape `T1/pbk/l/sc' tried instead on input line 260.
 
-Underfull \hbox (badness 6300) in paragraph at lines 287--288
+Underfull \hbox (badness 6300) in paragraph at lines 289--290
 []\T1/ppl/b/n/10 Masegroth\T1/ppl/m/n/10 , cit-tà por-tua-le se-de del-l'o-mo-n
 i-mo
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 297.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 299.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 320--322
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
 
  []
 
-<images/Ulan.jpg, id=96, 619.5948pt x 462.2871pt>
+<images/Ulan.jpg, id=97, 619.5948pt x 462.2871pt>
 File: images/Ulan.jpg Graphic file (type jpg)
 <use images/Ulan.jpg>
-Package pdftex.def Info: images/Ulan.jpg  used on input line 333.
+Package pdftex.def Info: images/Ulan.jpg  used on input line 335.
 (pdftex.def)             Requested size: 464.69496pt x 346.71446pt.
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 335.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 337.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [13 <./images/Ulan.jpg>]
-<images/Amareos.jpg, id=101, 845.559pt x 614.295pt>
+<images/Amareos.jpg, id=102, 845.559pt x 614.295pt>
 File: images/Amareos.jpg Graphic file (type jpg)
 <use images/Amareos.jpg>
-Package pdftex.def Info: images/Amareos.jpg  used on input line 341.
+Package pdftex.def Info: images/Amareos.jpg  used on input line 343.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--342
+Underfull \hbox (badness 10000) in paragraph at lines 340--344
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 346.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 348.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [14 <./images/Amareos.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 369--373
+Underfull \hbox (badness 10000) in paragraph at lines 371--375
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--378
+Underfull \hbox (badness 10000) in paragraph at lines 377--380
 
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 396.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 398.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 400--402
+Underfull \hbox (badness 10000) in paragraph at lines 402--404
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--402
+Underfull \hbox (badness 10000) in paragraph at lines 401--404
 
  []
 
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--413
+Underfull \hbox (badness 10000) in paragraph at lines 412--415
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 415--417
+Underfull \hbox (badness 10000) in paragraph at lines 417--419
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--424
+Underfull \hbox (badness 10000) in paragraph at lines 423--426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--426
+Underfull \hbox (badness 10000) in paragraph at lines 427--428
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 427.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 429.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [16]
-<images/BLegnodoro.jpg, id=111, 845.559pt x 614.295pt>
+<images/BLegnodoro.jpg, id=112, 845.559pt x 614.295pt>
 File: images/BLegnodoro.jpg Graphic file (type jpg)
 <use images/BLegnodoro.jpg>
-Package pdftex.def Info: images/BLegnodoro.jpg  used on input line 435.
+Package pdftex.def Info: images/BLegnodoro.jpg  used on input line 437.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 429--436
+Underfull \hbox (badness 10000) in paragraph at lines 431--438
 
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 439.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 441.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [17 <./images/BLegnodoro.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 443--445
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
 
  []
 
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--473
+Underfull \hbox (badness 10000) in paragraph at lines 472--475
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 487.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 489.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 489--491
+Underfull \hbox (badness 10000) in paragraph at lines 491--493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--494
+Underfull \hbox (badness 10000) in paragraph at lines 494--496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 514--516
+Underfull \hbox (badness 10000) in paragraph at lines 516--518
 
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 525.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 527.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [19]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 555.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 557.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [20]
-Underfull \hbox (badness 10000) in paragraph at lines 559--560
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
 
  []
 
@@ -1408,131 +1413,131 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 590.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 592.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [21]
-<images/riposoviandante.jpg, id=128, 845.559pt x 614.295pt>
+<images/riposoviandante.jpg, id=129, 845.559pt x 614.295pt>
 File: images/riposoviandante.jpg Graphic file (type jpg)
 <use images/riposoviandante.jpg>
-Package pdftex.def Info: images/riposoviandante.jpg  used on input line 593.
+Package pdftex.def Info: images/riposoviandante.jpg  used on input line 595.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 599.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 601.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [22 <./images/riposoviandante.jpg>]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 633.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 635.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [23]
-Underfull \hbox (badness 10000) in paragraph at lines 660--662
+Underfull \hbox (badness 10000) in paragraph at lines 662--664
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 665.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 667.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 670--671
+Underfull \hbox (badness 10000) in paragraph at lines 672--673
 
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 677.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 679.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [25]
-<images/Canalipoli.jpg, id=142, 845.559pt x 614.295pt>
+<images/Canalipoli.jpg, id=143, 845.559pt x 614.295pt>
 File: images/Canalipoli.jpg Graphic file (type jpg)
 <use images/Canalipoli.jpg>
-Package pdftex.def Info: images/Canalipoli.jpg  used on input line 681.
+Package pdftex.def Info: images/Canalipoli.jpg  used on input line 683.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 685.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 687.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [26 <./images/Canalipoli.jpg>]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 724.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 726.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [27]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 755.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 757.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [28]
-<images/Hellisdalk.jpg, id=152, 845.559pt x 614.295pt>
+<images/Hellisdalk.jpg, id=153, 845.559pt x 614.295pt>
 File: images/Hellisdalk.jpg Graphic file (type jpg)
 <use images/Hellisdalk.jpg>
-Package pdftex.def Info: images/Hellisdalk.jpg  used on input line 762.
+Package pdftex.def Info: images/Hellisdalk.jpg  used on input line 764.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 763.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 765.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [29 <./images/Hellisdalk.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 771--778
+Underfull \hbox (badness 10000) in paragraph at lines 773--780
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 788.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 790.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 798--801
+Underfull \hbox (badness 10000) in paragraph at lines 800--803
 
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 815.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 817.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [31]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 840.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 842.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [32]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 873.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 875.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [33]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 878.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 880.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [34]
-<images/Piebianco.jpg, id=172, 845.559pt x 614.295pt>
+<images/Piebianco.jpg, id=173, 845.559pt x 614.295pt>
 File: images/Piebianco.jpg Graphic file (type jpg)
 <use images/Piebianco.jpg>
-Package pdftex.def Info: images/Piebianco.jpg  used on input line 882.
+Package pdftex.def Info: images/Piebianco.jpg  used on input line 884.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 886.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 888.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [35 <./images/Piebianco.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 893--895
+Underfull \hbox (badness 10000) in paragraph at lines 895--897
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 908--910
+Underfull \hbox (badness 10000) in paragraph at lines 910--912
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 934.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 936.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [36]
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <8> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 962.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 964.
  ( FP-EVAL ( FP-UPN ( FP-SUB ) ( FP-DIV ) ) ) ( FP-POS? ) ( FP-EVAL
 ( FP-UPN ( FP-TRUNC ) ( FP-CLIP ) ) ) ( FP-EVAL ( FP-UPN ( FP-SUB ) ( FP-DIV )
 ) ) ( FP-POS? ) ( FP-EVAL ( FP-UPN ( FP-TRUNC ) ( FP-CLIP ) ) ) ( FP-EVAL
@@ -1542,174 +1547,174 @@ LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <8> not available
 ( FP-SUB ) ( FP-DIV ) ) ) ( FP-POS? ) ( FP-EVAL ( FP-UPN ( FP-TRUNC )
 ( FP-CLIP ) ) ) ( FP-EVAL ( FP-UPN ( FP-SUB ) ( FP-DIV ) ) ) ( FP-POS? )
 ( FP-EVAL ( FP-UPN ( FP-SUB ) ( FP-TRUNC ) ( FP-CLIP ) ) )
-Underfull \hbox (badness 10000) in paragraph at lines 947--972
+Underfull \hbox (badness 10000) in paragraph at lines 949--974
 
  []
 
 LaTeX Font Info:    Font shape `T1/lmss/b/it' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 973.
+(Font)              Font shape `T1/lmss/bx/it' tried instead on input line 975.
 
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 973.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 975.
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 989.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 991.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [37]
-<images/Masegroth.jpg, id=185, 845.559pt x 614.295pt>
+<images/Masegroth.jpg, id=186, 845.559pt x 614.295pt>
 File: images/Masegroth.jpg Graphic file (type jpg)
 <use images/Masegroth.jpg>
-Package pdftex.def Info: images/Masegroth.jpg  used on input line 994.
+Package pdftex.def Info: images/Masegroth.jpg  used on input line 996.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1001.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1003.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [38 <./images/Masegroth.jpg>]
-<images/Tonghar.jpg, id=189, 845.559pt x 614.295pt>
+<images/Tonghar.jpg, id=190, 845.559pt x 614.295pt>
 File: images/Tonghar.jpg Graphic file (type jpg)
 <use images/Tonghar.jpg>
-Package pdftex.def Info: images/Tonghar.jpg  used on input line 1006.
+Package pdftex.def Info: images/Tonghar.jpg  used on input line 1008.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1010.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1012.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [39 <./images/Tonghar.jpg>]
-<images/Acquincrocio.jpg, id=193, 845.559pt x 614.295pt>
+<images/Acquincrocio.jpg, id=194, 845.559pt x 614.295pt>
 File: images/Acquincrocio.jpg Graphic file (type jpg)
 <use images/Acquincrocio.jpg>
-Package pdftex.def Info: images/Acquincrocio.jpg  used on input line 1014.
+Package pdftex.def Info: images/Acquincrocio.jpg  used on input line 1016.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1019.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1021.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [40 <./images/Acquincrocio.jpg>]
-<images/Stellamarina.jpg, id=197, 845.559pt x 614.295pt>
+<images/Stellamarina.jpg, id=198, 845.559pt x 614.295pt>
 File: images/Stellamarina.jpg Graphic file (type jpg)
 <use images/Stellamarina.jpg>
-Package pdftex.def Info: images/Stellamarina.jpg  used on input line 1023.
+Package pdftex.def Info: images/Stellamarina.jpg  used on input line 1025.
 (pdftex.def)             Requested size: 507.33932pt x 368.57983pt.
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1028.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1030.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [41 <./images/Stellamarina.jpg>]
-<images/arccinqcastelli.jpg, id=201, 845.559pt x 614.295pt>
+<images/arccinqcastelli.jpg, id=202, 845.559pt x 614.295pt>
 File: images/arccinqcastelli.jpg Graphic file (type jpg)
 <use images/arccinqcastelli.jpg>
-Package pdftex.def Info: images/arccinqcastelli.jpg  used on input line 1031.
+Package pdftex.def Info: images/arccinqcastelli.jpg  used on input line 1033.
 (pdftex.def)             Requested size: 634.16771pt x 460.72011pt.
 
-Overfull \hbox (105.23096pt too wide) in paragraph at lines 1030--1032
+Overfull \hbox (105.23096pt too wide) in paragraph at lines 1032--1034
 [] 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1036.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1038.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [42 <./images/arccinqcastelli.jpg>]
 File: images/arccinqcastelli.jpg Graphic file (type jpg)
 <use images/arccinqcastelli.jpg>
-Package pdftex.def Info: images/arccinqcastelli.jpg  used on input line 1041.
+Package pdftex.def Info: images/arccinqcastelli.jpg  used on input line 1043.
 (pdftex.def)             Requested size: 634.16771pt x 460.72011pt.
 
-Overfull \hbox (105.23096pt too wide) in paragraph at lines 1038--1042
+Overfull \hbox (105.23096pt too wide) in paragraph at lines 1040--1044
 [] 
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1046.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1048.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [43]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1053.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1055.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [44]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1058.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1060.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [45]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1061.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1063.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [46]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1063.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1065.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [47]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1065.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1067.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [48]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1067.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1069.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [49]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1069.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1071.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [50]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1071.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1073.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [51]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1073.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1075.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [52]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1075.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1077.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [53]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1077.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1079.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [54]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1079.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1081.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [55]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1081.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1083.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [56]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1084.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1086.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [57]
 Capitolo .
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1087.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1089.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [58
@@ -1717,75 +1722,75 @@ Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1087.
 ]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1090.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1092.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [59]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1092.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1094.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [60]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1094.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1096.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [61]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1096.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1098.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [62]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1098.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1100.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [63]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1100.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1102.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [64]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1102.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1104.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [65]
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1104.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1106.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [66]
 Capitolo .
 
-Underfull \hbox (badness 10000) in paragraph at lines 1110--1112
+Underfull \hbox (badness 10000) in paragraph at lines 1112--1114
 
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1115.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1117.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [67
 
 ]
 Capitolo .
 
-Underfull \hbox (badness 10000) in paragraph at lines 1126--1127
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
 
  []
 
-<images/dicedrawn.png, id=285, 803.0pt x 406.51875pt>
+<images/dicedrawn.png, id=286, 803.0pt x 406.51875pt>
 File: images/dicedrawn.png Graphic file (type png)
 <use images/dicedrawn.png>
-Package pdftex.def Info: images/dicedrawn.png  used on input line 1130.
+Package pdftex.def Info: images/dicedrawn.png  used on input line 1132.
 (pdftex.def)             Requested size: 385.43562pt x 195.12677pt.
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1135.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1137.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [68
@@ -1794,26 +1799,26 @@ Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1135.
 Capitolo .
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1137.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1139.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [69
 
 ]
 Capitolo .
 
-Underfull \hbox (badness 10000) in paragraph at lines 1142--1151
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1153
 
  []
 
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1152--1157
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1159
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1158.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1160.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [70
@@ -1821,53 +1826,53 @@ Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1158.
 ]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1176.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1178.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [71]
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1190--1239
+Underfull \hbox (badness 10000) in paragraph at lines 1192--1241
 
  []
 
@@ -1876,62 +1881,62 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1240.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1242.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [72]
 
 Package tcolorbox Warning: Using nobreak failed. Try to enlarge `lines before b
-reak' or set page breaks manually on input line 1240.
+reak' or set page breaks manually on input line 1242.
 
 Missing character: There is no ; in font nullfont!
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1241.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1243.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [73]
-Underfull \hbox (badness 10000) in paragraph at lines 1244--1246
+Underfull \hbox (badness 10000) in paragraph at lines 1246--1248
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1251--1255
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1257
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1255.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1257.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [74]
-Underfull \hbox (badness 10000) in paragraph at lines 1267--1270
+Underfull \hbox (badness 10000) in paragraph at lines 1269--1272
 
  []
 
 Missing character: There is no ; in font nullfont!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1272--1275
+Underfull \hbox (badness 10000) in paragraph at lines 1274--1277
 
  []
 
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1277.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1279.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [75]
-Underfull \hbox (badness 10000) in paragraph at lines 1280--1284
+Underfull \hbox (badness 10000) in paragraph at lines 1282--1286
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1286--1289
+Underfull \hbox (badness 10000) in paragraph at lines 1288--1291
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1307.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1309.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [76]
@@ -1940,22 +1945,22 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1329.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1331.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [77]
-Underfull \hbox (badness 10000) in paragraph at lines 1331--1334
+Underfull \hbox (badness 10000) in paragraph at lines 1333--1336
 
  []
 
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1360.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1362.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
 [78]
 File: img/bg-letter-odd-print.jpg Graphic file (type jpg)
 <use img/bg-letter-odd-print.jpg>
-Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1373.
+Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1375.
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [79] ( FP-EVAL ( FP-UPN ( FP-SUB ) ( FP-DIV ) ) ) ( FP-POS? ) ( FP-EVAL
 ( FP-UPN ( FP-TRUNC ) ( FP-CLIP ) ) ) ( FP-EVAL ( FP-UPN ( FP-SUB ) ( FP-DIV )
@@ -1968,7 +1973,7 @@ Package pdftex.def Info: img/bg-letter-odd-print.jpg  used on input line 1373.
 ( FP-EVAL ( FP-UPN ( FP-TRUNC ) ( FP-CLIP ) ) )
 File: img/bg-letter-even-print.jpg Graphic file (type jpg)
 <use img/bg-letter-even-print.jpg>
-Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1416.
+Package pdftex.def Info: img/bg-letter-even-print.jpg  used on input line 1418.
 
 (pdftex.def)             Requested size: 614.295pt x 795.01657pt.
  [80] (enciclopedia.aux)
@@ -1982,10 +1987,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24899 strings out of 474592
- 522713 string characters out of 5755613
+ 24913 strings out of 474592
+ 522976 string characters out of 5755613
  1963533 words of memory out of 5000000
- 46543 multiletter control sequences out of 15000+600000
+ 46557 multiletter control sequences out of 15000+600000
  614178 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,12n,121p,1206b,1528s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1998,9 +2003,9 @@ les/MiKTeX/fonts/type1/urw/bookman/ubkd8a.pfb><C:/Program Files/MiKTeX/fonts/ty
 pe1/urw/bookman/ubkl8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/up
 lb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on enciclopedia.pdf (80 pages, 62372391 bytes).
+Output written on enciclopedia.pdf (80 pages, 62606440 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
+ 432 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
